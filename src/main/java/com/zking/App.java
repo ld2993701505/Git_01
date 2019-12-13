@@ -10,6 +10,7 @@ public class App
     {
      int a=10;
      int b=5;
+     int result=a+b;
         System.out.println( "Hello World!" );
     }
 }
